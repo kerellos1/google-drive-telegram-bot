@@ -3,8 +3,8 @@ class config:
     APP_ID = "2329383"
     API_HASH = "bb006d5ab275bfdff76cded20f561756"
     DATABASE_URL = "postgres://aumdpvprcdpevn:a3e4703868dc9477c1e8395bd2e65d65ec75a7a1f3ef4559fd88e27e8de91bd9@ec2-54-235-192-146.compute-1.amazonaws.com:5432/de7g5tg3i5l1p0"
-    SUDO_USERS = "569805094" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    SUDO_USERS = "569805094 1001457544517" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/DarkHackerX"
     DOWNLOAD_DIRECTORY = "./downloads/"
 
 
